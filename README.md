@@ -1,9 +1,9 @@
-<H2><p>Touchdesigner + Twitter APIv2</H2><br />
+<H1><p>Touchdesigner + Twitter APIv2</H1><br />
 Project that connects <strong>Touchdesigner</strong> and <strong>Twitter</strong>, using <strong>Filtered Stream with rules</strong>, based on <strong>API v2</strong></p>
 
 <p>This project is <strong>heavily modified BUT</strong> based on&nbsp;<strong>TWITTER FILTERED STREAM (API V2) tox&nbsp;</strong>as found on derivative website:&nbsp;<a href="https://derivative.ca/community-post/asset/twitter-filtered-stream-api-v2/63953">https://derivative.ca/community-post/asset/twitter-filtered-stream-api-v2/63953</a></p>
 
-<p>Project goals:</p>
+<H2><p>Project goals:</p></H2>
 
 <ul>
 	<li>Set rules</li>
@@ -15,7 +15,7 @@ Project that connects <strong>Touchdesigner</strong> and <strong>Twitter</strong
 	<li>Control over stream rows</li>
 </ul>
 
-<p>Usecase</p>
+<H2><p>Usecase</p></H2>
 
 <ul>
 	<li>Create visual art</li>
