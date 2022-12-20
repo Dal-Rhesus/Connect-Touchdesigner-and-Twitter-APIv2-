@@ -19,6 +19,7 @@ Project that connects <strong>Touchdesigner</strong> and <strong>Twitter</strong
 <ul>
 	<li>Create visual art</li>
 	<li>Integrade this project into bigger projects (festivals) in order to create interactivity.&nbsp;</li>
+	<li>Anything you can imagine</li>
 </ul>
 
 <p>&nbsp;</p>
