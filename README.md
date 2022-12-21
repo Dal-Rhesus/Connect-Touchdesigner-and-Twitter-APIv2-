@@ -10,7 +10,7 @@ Project that connects <strong>Touchdesigner</strong> and <strong>Twitter</strong
 	<li>Set rules</li>
 	<li>Import Tweets</li>
 	<li>Display Tweets every N seconds</li>
-	<li>Filter Tweets (bad, inappropriate language etc)</li>
+	<li>Filter Tweets (some bad, inappropriate language etc)For now no libraries can be imported</li>
 	<li>Display total Tweets</li>
 	<li>Control over functions</li>
 	<li>Control over stream rows</li>
